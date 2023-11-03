@@ -2,15 +2,6 @@
 
 Welcome to the Java Bootcamp!
 
-## Course Overview 📋
-
-- **Course Name**: Java Bootcamp
-- **Duration**: [Insert Duration]
-- **Instructor**: [Insert Instructor Name]
-- **Venue**: [Insert Venue]
-- **Start Date**: [Insert Start Date]
-- **End Date**: [Insert End Date]
-
 ## Course Content 📔
 
 In this course, you will learn:
