@@ -24,13 +24,13 @@ To get the most out of this course, it's recommended that you have:
 
 This course is structured into different modules, each covering a specific topic. You will find lecture notes, assignments, and code samples in the respective module folders.
 
-- [Module 1](module1/): Introduction to Java
-- [Module 2](module2/): Object-Oriented Programming
-- [Module 3](module3/): Java Collections
-- [Module 4](module4/): Exception Handling
-- [Module 5](module5/): File I/O
-- [Module 6](module6/): Java Frameworks
-- [Module 7](module7/): Building Applications
+- [Module 1]: Introduction to Java
+- [Module 2]: Object-Oriented Programming
+- [Module 3]: Java Collections
+- [Module 4]: Exception Handling
+- [Module 5]: File I/O
+- [Module 6]: Java Frameworks
+- [Module 7]: Building Applications
 
 ## Assignments 📝
 
