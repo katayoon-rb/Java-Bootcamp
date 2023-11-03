@@ -1,6 +1,6 @@
-# Java Bootcamp README
+# Java Bootcamp 🚀
 
-Welcome to the Java Bootcamp! 🚀
+Welcome to the Java Bootcamp!
 
 ## Course Overview 📋
 
